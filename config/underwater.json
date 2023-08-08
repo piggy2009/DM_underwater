@@ -10,8 +10,8 @@
         "tb_logger": "tb_logger",
         "results": "results",
         "checkpoint": "checkpoint",
-        "resume_state": null
-//         "resume_state": "experiments_supervised/I950000_E3369" //pretrain model or training state
+        //"resume_state": null
+        "resume_state": "experiments_supervised/I950000_E3369" //pretrain model or training state
     },
     "datasets": {
         "train": {
